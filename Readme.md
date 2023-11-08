@@ -39,13 +39,7 @@ The Arduino sketch provided in this repository is for reading distance measureme
 3. Power up the Arduino board.
 4. The robot will use the ultrasonic sensors to detect obstacles and take action accordingly.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 Feel free to modify and improve upon this project for your specific needs.
 
 Happy robotics!
 ```
-
-You can create a `README.md` file in your project's repository and replace the placeholders with your project-specific details, such as the license, usage instructions, and any additional information you want to provide to users.
