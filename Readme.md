@@ -16,6 +16,9 @@ This is an Arduino project that uses three ultrasonic distance sensors to detect
 
 Here's a simplified circuit diagram for this setup:
 ****To be added****
+## Working Video
+https://github.com/vinayaksoni1729/Arduino-Automatic-Room-Disinfection-Robot/assets/113187290/feee3fab-0543-4a2d-b0fe-ae41f92a15a8
+
 
 Here are the connections:
 
